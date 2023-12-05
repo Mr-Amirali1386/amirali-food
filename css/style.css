@@ -268,4 +268,14 @@ a:hover {
     .footer-line{
         margin-top: 540px;
     }
+
+}
+@media (max-width:100px) {
+
+    .footer-text {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px blue, -2px -2px 5px orange;
+}
 }
